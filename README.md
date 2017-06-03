@@ -1,2 +1,2 @@
 # rectile
-Compute rectangular quantile from points
+Compute rectangular quantiles of x,y pointsets -- for example, multiple contribution gathers
